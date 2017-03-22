@@ -25,6 +25,7 @@ Title | Archive | RSS | Twitter | Day | 1st Issue | Curator | Publisher
 [Sitepoint](https://www.sitepoint.com/newsletter/) | [Archive](https://www.sitepoint.com/newsletter-archive/) | - | - | - | [July 23, 2014](http://sitepointdotcom.createsend.com/t/ViewEmailArchive/y/98CFA3DC7A9C9BD6/C67FD2F38AC4859C/) | - | SitePoint Pty. Ltd.
 [React.js Newsletter](http://reactjsnewsletter.com) | [Archive](http://reactjsnewsletter.com/issues) | - | - | - | [December 30, 2015](http://reactjsnewsletter.com/issues/1) | [Tyler McGinnis](https://twitter.com/tylermcginnis33), [Ean Platter](https://twitter.com/eanplatter)
 [pico stitch]() | [Archive](http://us15.campaign-archive1.com/home/?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa) | [RSS](http://us15.campaign-archive2.com/feed?u=255b6e97fa550b55e8a9d42b8&id=6415e108fa) | [@wolframkriesing](https://twitter.com/wolframkriesing) | Monday | [February 28, 2017](http://us15.campaign-archive2.com/?u=255b6e97fa550b55e8a9d42b8&id=71b31ae4f6) | [Wolfram Kriesing](http://picostitch.com/)
+[UI Animation](http://valhead.com/newsletter/) | [Archive](http://valhead.com/uianimation-newsletter-archives/) | | | Friday | [January 13, 2017](http://us2.campaign-archive1.com/?u=6fbaddc8c1fce7588d1a35cb2&id=c17f55b347) | [Val Head](https://twitter.com/vlh) | self
 
 ## Node.js
 
